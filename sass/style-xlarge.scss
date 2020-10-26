@@ -1,0 +1,15 @@
+@import 'vars';
+@import 'mixins';
+
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+	}
+	
+/* Banner */
+
+	#banner {
+		padding: 12em 0;
+	}
